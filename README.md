@@ -1,6 +1,7 @@
 # Data-Analysis-Projects
 This repository provides datasets which are recommended for beginners to test their concepts and coding skills to provide insights from the datasets.
-<br>The contributors are expected to drop issues(their hypothesis) and then get themselves assigned the same.
+<br>The contributors are expected to drop issues(their hypothesis) and then get themselves assigned the same.<br>
+<b>Three Datasets will be added every week and last week's STAR contributor will be mentioned in the readme.</b>
 
 ## Datasets available
 <dl>
