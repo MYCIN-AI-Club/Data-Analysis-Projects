@@ -67,8 +67,8 @@ Tip for the contributor: Keep the code/files clean and well formatted to make it
 ## Contributors:
 #### Maintainer: <a href="github.com/kushagrathisside"><b>KUSHAGRA SRIVASTAVA</b></a>
 #### Other contributors:
-<a href="https://github.com/MYCIN-AI-Club/MachineLearning-Bootcamp01/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MYCIN-AI-Club/MachineLearning-Bootcamp01" />
+<a href="https://github.com/MYCIN-AI-Club/Data-Analysis-Projects/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MYCIN-AI-Club/Data-Analysis-Projects" />
 </a>
 <b> MYCIN-AI</b>
 <br><a href="mycin.in">
