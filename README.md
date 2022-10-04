@@ -62,6 +62,14 @@ Tip for the contributor: Keep the code/files clean and well formatted to make it
 
 ### Official Post coming soon.
 <br><br>
+
+<br><br><br>
+## Contributors:
+#### Maintainer: <a href="github.com/kushagrathisside"><b>KUSHAGRA SRIVASTAVA</b></a>
+#### Other contributors:
+<a href="https://github.com/MYCIN-AI-Club/MachineLearning-Bootcamp01/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MYCIN-AI-Club/MachineLearning-Bootcamp01" />
+</a>
 <b> MYCIN-AI</b>
 <br><a href="mycin.in">
 <img src="https://user-images.githubusercontent.com/76547274/193342819-bc84f078-d7cb-4f99-aeb1-05867a7bdce3.jpg" alt="MYCIN LOGO" height="100dp" breath="100dp"></a>
